@@ -10976,7 +10976,7 @@ section.resume-section .resume-section-content {
   
   .image-profile{
     position: relative;
-    background-image: url('/assets/img/profile-crop.jpg'); /* Replace 'your-image.jpg' with your image URL */
+    background-image: url('../assets/img/profile-crop.jpg'); /* Replace 'your-image.jpg' with your image URL */
     background-repeat: no-repeat;
     background-position: bottom right;
     width: 100%;
@@ -10985,7 +10985,7 @@ section.resume-section .resume-section-content {
 
   .image-education{
     position: relative;
-    background-image: url('/assets/img/education.png'); /* Replace 'your-image.jpg' with your image URL */
+    background-image: url('../assets/img/education.png'); /* Replace 'your-image.jpg' with your image URL */
     background-repeat: no-repeat;
     background-position: 95% 15%;
     width: 95%;
@@ -10994,7 +10994,7 @@ section.resume-section .resume-section-content {
 
   .image-exp{
     position: relative;
-    background-image: url('/assets/img/exp.png'); /* Replace 'your-image.jpg' with your image URL */
+    background-image: url('../assets/img/exp.png'); /* Replace 'your-image.jpg' with your image URL */
     background-repeat: no-repeat;
     background-position: 100% 2%;
     width: 95%;
@@ -11003,7 +11003,7 @@ section.resume-section .resume-section-content {
 
   .image-skill{
     position: relative;
-    background-image: url('/assets/img/skill.png'); /* Replace 'your-image.jpg' with your image URL */
+    background-image: url('../assets/img/skill.png'); /* Replace 'your-image.jpg' with your image URL */
     background-repeat: no-repeat;
     background-position: 100% 2%;
     width: 95%;
@@ -11012,7 +11012,7 @@ section.resume-section .resume-section-content {
 
   .image-interest{
     position: relative;
-    background-image: url('/assets/img/interest.png'); /* Replace 'your-image.jpg' with your image URL */
+    background-image: url('../assets/img/interest.png'); /* Replace 'your-image.jpg' with your image URL */
     background-repeat: no-repeat;
     background-position: 100% 2%;
     width: 95%;
@@ -11021,7 +11021,7 @@ section.resume-section .resume-section-content {
 
   .image-award{
     position: relative;
-    background-image: url('/assets/img/award.png'); /* Replace 'your-image.jpg' with your image URL */
+    background-image: url('../assets/img/award.png'); /* Replace 'your-image.jpg' with your image URL */
     background-repeat: no-repeat;
     background-position: 100% 2%;
     width: 95%;
